@@ -1,0 +1,26 @@
+{
+  "name": "@antoinepairet/now-git-dependency",
+  "public": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoinepairet/now-git-dependency.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antoinepairet/now-git-dependency/issues"
+  },
+  "homepage": "https://github.com/antoinepairet/now-git-dependency#readme",
+  "devDependencies": {
+    "typescript": "^3.3.3"
+  },
+  "dependencies": {
+    "@antoinepairet/icc-api": "github:antoinepairet/icc-api#master"
+  }
+}

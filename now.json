@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "public": true,
+  "name": "nodejs",
+  "builds": [{ "src": "*.js", "use": "@now/node" }]
+}
