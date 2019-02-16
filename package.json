@@ -17,10 +17,8 @@
     "url": "https://github.com/antoinepairet/now-git-dependency/issues"
   },
   "homepage": "https://github.com/antoinepairet/now-git-dependency#readme",
-  "devDependencies": {
-    "typescript": "^3.3.3"
-  },
   "dependencies": {
-    "@antoinepairet/icc-api": "github:antoinepairet/icc-api#master"
+    "@antoinepairet/icc-api": "github:antoinepairet/icc-api#master",
+    "typescript": "^3.3.3"
   }
 }
